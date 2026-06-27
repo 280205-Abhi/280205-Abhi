@@ -22,7 +22,7 @@ Like the hotel that made non-refundable deposits mandatory and *still* had its h
 
 ## 📂 Projects
 
-### 🏨 [Hotel Booking Analysis](https://github.com/280205-Abhi/hotel-booking-analysis)
+### 🏨 [Hotel Booking Analysis]([https://github.com/280205-Abhi/hotel-booking-analysis](https://github.com/280205-Abhi/Hotel_Booking_Analysis))
 End-to-end EDA on 119K+ hotel booking records to uncover what drives cancellations and where revenue leaks.
 
 - Cleaned 31,994 duplicate rows (26.8% of raw data) and engineered 8 new features
@@ -41,7 +41,7 @@ Multi-dataset player valuation analysis with a custom Player Value Score formula
 
 ---
 
-### 🔍 [Faktet — Fake News Detection](https://github.com/280205-Abhi/Faktet-WebApp)
+### 🔍 [Faktet — Fake News Detection]([https://github.com/280205-Abhi/Faktet-WebApp](https://github.com/280205-Abhi/Faktet-WebApp))
 Web application that detects and verifies the authenticity of news articles using NLP and ML.
 
 `Next.js` `FastAPI` `MySQL` `Tailwind CSS`
