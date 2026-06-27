@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav 👋
 
-Final-year B.Tech IT student from Hyderabad, building toward a **Data Analyst** role.
+Final-year B.Tech IT student from Mumbai, building toward a **Data Analyst** role.
 I got tired of just learning theory — so I started working with real datasets, asking real business questions, and finding the insights that aren't obvious.
 
 Like the hotel that made non-refundable deposits mandatory and *still* had its highest cancellation rate. That's what good analysis uncovers.
