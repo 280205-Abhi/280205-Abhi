@@ -41,17 +41,9 @@ Multi-dataset player valuation analysis with a custom Player Value Score formula
 
 ---
 
-### 🔍 [Faktet — Fake News Detection]([https://github.com/280205-Abhi/Faktet-WebApp](https://github.com/280205-Abhi/Faktet-WebApp))
-Web application that detects and verifies the authenticity of news articles using NLP and ML.
-
-`Next.js` `FastAPI` `MySQL` `Tailwind CSS`
-
----
-
 ## 📈 Currently
 
 - 🏗️ Building IPL Auction Analysis project — target: **July 2, 2026**
-- 📦 Supply Chain Analysis project up next — target: **July 12, 2026**
 - 🎯 Actively preparing for **Data Analyst** campus placements (July–August 2026)
 - 📚 Daily: 1 LeetCode · SQL practice · EDA revision
 
