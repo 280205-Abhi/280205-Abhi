@@ -61,7 +61,7 @@ End-to-end EDA on **119K+ booking records** to find what drives cancellations an
 
 ---
 
-### 🧠 NeuroAI: Explainable Clinical Support for ASD Screening
+### 🧠 [NeuroAI: Explainable Clinical Support for ASD Screening](https://github.com/280205-Abhi/NeuroAI_ASD)
 Multimodal screening system combining **brain MRI, speech acoustics and the M-CHAT-R behavioural questionnaire**, built so that clinicians can see *why* a model said what it said.
 
 - Clinical ensemble: Random Forest at **96.55% accuracy**, Gradient Boosting for severity
