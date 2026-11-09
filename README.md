@@ -174,12 +174,12 @@
 ### 📈 GitHub Analytics & Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=280205-Abhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=F59E0B&text_color=E2E8F0" alt="Abhinav's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=280205-Abhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=E2E8F0" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=280205-Abhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=F59E0B&text_color=E2E8F0" alt="Abhinav's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=280205-Abhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=E2E8F0" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=280205-Abhi&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=F59E0B&currStreakLabel=14B8A6" alt="GitHub Streak" height="155"/>
+  <img src="https://streak-stats.demolab.com/?user=280205-Abhi&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=F59E0B&currStreakLabel=14B8A6" alt="GitHub Streak" height="155"/>
 </div>
 
 ---
